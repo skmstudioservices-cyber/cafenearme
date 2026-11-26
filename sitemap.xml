@@ -1,4 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://cafenearme.pages.dev/</loc></url>
+  <url><loc>https://cafenearme.pages.dev/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://cafenearme.pages.dev/delhi</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://cafenearme.pages.dev/mumbai</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://cafenearme.pages.dev/bengaluru</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://cafenearme.pages.dev/hyderabad</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://cafenearme.pages.dev/pune</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://cafenearme.pages.dev/chennai</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://cafenearme.pages.dev/kolkata</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://cafenearme.pages.dev/ahmedabad</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://cafenearme.pages.dev/are-cafes-in-india-expensive</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://cafenearme.pages.dev/which-cafes-have-free-wifi-in-india</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://cafenearme.pages.dev/cafes-open-24-hours-in-india</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://cafenearme.pages.dev/best-cafe-chains-in-india</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://cafenearme.pages.dev/cafes-near-metro-stations-in-india</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://cafenearme.pages.dev/how-to-find-a-cafe-near-me</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 </urlset>
